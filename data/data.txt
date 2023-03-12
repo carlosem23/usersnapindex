@@ -1,0 +1,460 @@
+
+title: "Usersnap FAQ"
+slug: "usersnap-faq"
+hidden: false
+createdAt: "2017-09-25T13:10:11.676Z"
+updatedAt: "2023-03-01T14:58:50.695Z"
+
+ Users Management & Collaboration 
+- What is a team member?
+- How can I change my email address?
+- Can I join more than one team?
+- How do I reset my password?
+- How can we change the team admin's email address? 
+- How can I cancel my subscription?
+- How can I delete my account?
+ Feedback items & tickets 
+- Is it possible to move feedback items between projects?
+ Customization of Widgets 
+* Can I customize or brand the Usersnap widgets?
+* Do I need one project per page?
+* Can I whitelabel the dashboard?
+* Does Usersnap support the widget's CSS cutom styling?
+ Languages 
+* Is Usersnap available in different languages?
+ GDPR/CCPA & Privacy & Security 
+- Can I hide confidential parts of the website/web app on the screenshots? 
+- How can I handle the content which is not supposed to be rendered in a feedback item? 
+- Is Usersnap GDPR compliant?
+- Is Usersnap CCPA compliant?
+- Where are the data of Usersnap stored?
+- Can you provide Enterprise security for our company?
+- How long is the data retained with Usersnap?
+- Can I hire your service to only process our data without keeping any of it?
+ Development & Technical topics 
+* Do the Usersnap widgets slow down my site?
+* Does Usersnap work in local development environments? 
+* What is the maximum supported screen resolution of Usersnap? 
+* Does Usersnap support WebGL? 
+* Does Usersnap support iframes in website screenshots? 
+* What browsers are supported by Usersnap? 
+* Does Usersnap work on mobile browsers? 
+* Can I use Usersnap in our mobile native app (Android/iOS)? 
+* Can I install Usersnap on-premise?
+* Is Usersnap compliant with Web Content Accessibility Guidelines (WCAG)?
+* Does Usersnap only send the screenshot's image over to its server?
+* Is Usersnap affected by the log4j vulnerability??
+* Does Usersnap support Electron?
+* Can I use Usersnap with webflow pages?
+Other important topics
+
+Can I export my projects?
+How do my beta testers view the project without an Usersnap account?
+
+Find further FAQs on pricing and usage on our website
+What do page views mean? 
+How to open the Usersnap widget with short-keys?
+Does Usersnap support Subresource Integrity (SRI)
+Can I use Usersnap with webflow pages?
+[block:api-header]
+{
+  "title": "What is a team member?"
+}
+[/block]
+A team member is someone who can log-in and have access to the Usersnap dashboard and can collaborate with other team members. 
+
+More information on what a team member is.
+[block:html]
+{
+  "html": "\n.button_us {\n  border: none;\n  color: white;\n  padding: 10px 20px;\n  text-align: center;\n  text-decoration: none;\n  display: inline-block;\n  font-size: 16px;\n  margin: 4px 2px;\n  transition-duration: 0.4s;\n  cursor: pointer;\n}\n\n.button2_us {\n  background-color: #3a21ce; \n  color: white; \n  border: 2px solid #3a21ce;\n}\n\n.button2_us:hover {\n  background-color: #FFFFFF;\n  color: #3a21ce;\n  border: 2px solid #3a21ce;\n}\n\n\n\n\n  Get started\n  \n"
+}
+[/block]
+[block:api-header]
+{
+  "title": "How can I change my email address?"
+}
+[/block]
+It is absolutely possible to change the email address of a team member. Unfortunately one can not change the email address directly from the dashboard due to security reasons. 
+It needs to be handled as a replacement with a new account.
+More explanations can be found in the Team managment.
+[block:api-header]
+{
+  "title": "Can I export my projects?"
+}
+[/block]
+You can export feedback items within the project. Get more information on exporting here
+[block:api-header]
+{
+  "title": "Is Usersnap available in different languages?"
+}
+[/block]
+The Usersnap platform widgets support several languages. 
+You can configure them in your project's widget settings or via the API.
+Currently available languages are:
+
+Chinese  Simplified
+Chinese  Traditional
+Czech
+Dutch
+English
+French
+German
+Hungarian
+Italian
+Japanese
+Korean
+Lithuanian
+Polish
+Portuguese
+Romanian
+Russian
+Serbo-Croatian
+Slovak
+Spanish
+Swedish
+Turkish
+[block:api-header]
+{
+  "title": "Can add branding to the feedback widgets?"
+}
+[/block]
+Yes, you can customize the widgets and add a company logo in the header. You can add an individual web-font and remove the Usersnap logo at the bottom of the widgets.
+
+More information on that can be found here
+[block:api-header]
+{
+  "title": "Can I join more than one team?"
+}
+[/block]
+No, you can only be part of one team. If you have already created an account and you are invited to join a team, you will have to delete your account, before you can join this team.
+[block:api-header]
+{
+  "title": "How can I delete my account/user?"
+}
+[/block]
+Cancel your active subscription first. In the next step, you can delete your account (& user). Please, be aware that this is irreversible.
+[block:html]
+{
+  "html": "\n"
+}
+[/block]
+[block:api-header]
+{
+  "title": "How do I reset my password?"
+}
+[/block]
+If you forget your password, no worries! Go to the Usersnap login and simply click on the "Forget your password" button. Enter your email address and you'll soon receive the reset link by email.
+[block:image]
+{
+  "images": [
+    {
+      "image": [
+        "https://files.readme.io/76afce8-forget_your_password.png",
+        "forget your password.png",
+        706,
+        446,
+        "#ddd6f0"
+      ],
+      "sizing": "80"
+    }
+  ]
+}
+[/block]
+The Usersnap password can also be reset in the dashboard.
+More related info can be found in Account Settings. 
+[block:api-header]
+{
+  "title": "Can we change the team admin?"
+}
+[/block]
+Yes, you can change the team admin. They can transfer the ownership to another user.
+Find more about this in the team management section
+[block:api-header]
+{
+  "title": "Does Usersnap work on mobile browsers?"
+}
+[/block]
+Yes, Usersnap works very well on mobile web browsers. You can test it right away and go to (https://usersnap.com) on your mobile phone and submit a feedback item.
+[block:image]
+{
+  "images": [
+    {
+      "image": [
+        "https://files.readme.io/0f0d2f2-mobile_cx.jpg",
+        "mobile_cx.jpg",
+        376,
+        668,
+        "#b9bcbe"
+      ]
+    }
+  ]
+}
+[/block]
+[block:api-header]
+{
+  "title": "Can I embed Usersnap in our mobile native app (Android/iOS)?"
+}
+[/block]
+Yes, we are launching a mobile-native SDK for iOS and Android. If you have some questions, please contact us.
+[block:api-header]
+{
+  "title": "Do I need one project per page?"
+}
+[/block]
+No, you can create a project and use it on as many pages as you want. Only the page view limits of 1 million page views per month might apply.
+You can also use the Usersnap project across domains and you are not bound to only 1 domain per project.
+[block:api-header]
+{
+  "title": "Can I whitelabel the dashboard?"
+}
+[/block]
+You can change the branding of the widget on certain subscription plans. It is currently not possible to whitelabel the Usersnap dashboard.
+[block:api-header]
+{
+  "title": "What is the maximum supported screen resolution of Usersnap?"
+}
+[/block]
+The Usersnap widgets support screen resolutions up to 4K high definition, which results in 3840x2160 pixels for Microsoft Windows, Linux, and Mac OS X.
+If the screen size exceeds the corresponding maximum screen resolution, your image will be cropped. If you need larger screens for your web project, please contact us, we are happy to find a custom solution for you.
+[block:api-header]
+{
+  "title": "Does Usersnap support WebGL?"
+}
+[/block]
+Yes, but we need your help to make your WebGL application using the  element compatible with Usersnap. Please enable the option 'preserveDrawingBuffer' where you create your canvas context:
+[block:code]
+{
+  "codes": [
+    {
+      "code": "gl = canvas.getContext(\"experimental-webgl\", {preserveDrawingBuffer: true});",
+      "language": "text"
+    }
+  ]
+}
+[/block]
+[block:api-header]
+{
+  "title": "Does Usersnap support iframes in feedback screenshots?"
+}
+[/block]
+Yes, our widget supports displaying an embedded page, loaded in an iframe, as long as both web pages have the same origin.
+Due to browser limitations, we won’t display content that loads from a different origin. A placeholder ‘Cross-Origin content’ will be displayed instead.
+Our browser extensions (Chrome, Firefox) however do not have this restriction.
+[block:callout]
+{
+  "type": "info",
+  "body": "This limitation can be bypassed by using the native screenshot feature.",
+  "title": "Attention:"
+}
+[/block]
+[block:api-header]
+{
+  "title": "What browsers are supported by Usersnap?"
+}
+[/block]
+ The Usersnap Widget is supported in the following browsers: 
+| Browser            | Browser Version      |
+|--------------------|----------------------|
+| Chrome             | version 95 and above |
+| Internet Explorer  | not supported        |
+| Firefox            | version 94 and above |
+| Safari             | version 13 and above |
+| Edge               | version 95 and above |
+| Chrome for Android | version 95 and above |
+| Safari for iOS     | version 13 and above |
+[block:api-header]
+{
+  "title": "Can confidential parts of screenshots and screen recording be hidden?"
+}
+[/block]
+You can count on us! Privacy is important. We implemented a PII feature for you.
+You can define elements that are automatically hidden on every screenshot or video (payment details etc). 
+Additionally, you can activate the hide-feature for your users so that they can hide information for your team.
+More importantly, the contents of that container will not even be transmitted to our rendering engine.
+To always hide elements in your web application or website, let your developers apply this CSS class "usprivacy".
+[block:code]
+{
+  "codes": [
+    {
+      "code": "\n    This is a super private content.\n",
+      "language": "html"
+    }
+  ]
+}
+[/block]
+[block:api-header]
+{
+  "title": "Can I install Usersnap on-premise?"
+}
+[/block]
+Yes and No. You can install the Usersnap feedback widget on our on-premise software but read this guide about Protected Sites.
+If you want to install the Usersnap app and dashboard on your own servers, we are really sorry. Our Usersnap feedback platform is cloud-based and only works on our highly-secured servers.
+[block:api-header]
+{
+  "title": "Is Usersnap WCAG compliant?"
+}
+[/block]
+Yes, we comply with the latest Web Content Accessibility Guidelines, WCAG 2.1, at level AA for two of the most liked project types: Quick Issue Reporting and NPS (Net Promoter Score).
+We are committed to improving our SaaS product to be more perceivable and operable to a wider range of people with disabilities. 
+To integrate it successfully into your product, we propose 2 possible implementations:
+
+
+Install the Usersnap code snippet on your application and set display rules to trigger by API log event.
+
+
+Link to the full-page feedback form. In the project dashboard, find the “Share” button to get the link to a full-page feedback form. Copy the link and use it on your websites, emails and/or applications. 
+[block:api-header]
+{}
+[/block]
+Please note the Quick Issue Reporting widget upon spawning will announce to screen readers, using aria-live, that pressing the Enter key takes a screenshot. 
+[block:api-header]
+{
+  "title": "Can my users access the submitted feedback items?"
+}
+[/block]
+Yes, absolutely!
+You can share access to the Board with your guest users. They will then be able to follow up and/or interact with different submitted items.
+
+
+[block:api-header]
+{
+  "title": "Is Usersnap GDPR compliant?"
+}
+[/block]
+Yes, Usersnap is 100% GDPR compliant. Find more on our GDPR page.
+[block:api-header]
+{
+  "title": "Is Usersnap CCPA compliant?"
+}
+[/block]
+Yes, Usersnap is CCPA compliant. 
+[block:api-header]
+{
+  "title": "Where are the data stored?"
+}
+[/block]
+We are using data centers from AWS (Amazon Web Services) which are only located in Europe (Germany or Ireland). All data are safely stored and reside within the EU. Find more on our GDPR page. And read everything we've implemented to give you the highest security possible.
+[block:api-header]
+{
+  "title": "How does Usersnap store cookies?"
+}
+[/block]
+Our Usersnap widgets do not store any cookies on our clients' customers' machines. However, some information is stored in the local storage of your browser. For additional details, please refer to our Security page.
+However, we do store cookies on the browsers of our direct users when they log into the dashboard. Therefore, you may observe cookies being saved from Usersnap. Rest assured that this does not have any impact on your users' browsing experience.
+Please see the following screenshot as proof. You can also check our privacy policy page for more information.
+[block:image]
+{
+  "images": [
+    {
+      "image": [
+        "https://files.readme.io/2c84bd1-usersnap_cookies.png",
+        "usersnap_cookies.png",
+        1142,
+        422,
+        "#000000"
+      ]
+    }
+  ]
+}
+[/block]
+[block:api-header]
+{
+  "title": "Can Usersnap provide Enterprise security?"
+}
+[/block]
+We are working hard to make Usersnap rock-solid to protect your user and customer data. Please, read everything we've implemented to give you the highest security possible.
+[block:api-header]
+{
+  "title": "What do page views mean?"
+}
+[/block]
+Any load of the space (global) code snippet- or project snippet on your website counts as a page view, no matter if a button or widget is actually displayed.
+[block:api-header]
+{
+  "title": "Is it possible to move feedback items between projects?"
+}
+[/block]
+Yes, you can move feedback items between projects. Go to the Share-icon on the top right and move your feedback item to another project. 
+Be aware! If the projects are not fully compatible, information like rating could get removed.
+[block:image]
+{
+  "images": [
+    {
+      "image": [
+        "https://files.readme.io/e714b48-move_item_3.png",
+        "move item 3.png",
+        349,
+        229,
+        "#e7f1f0"
+      ]
+    }
+  ]
+}
+[/block]
+[block:api-header]
+{
+  "title": "How to show the Usersnap widget with hot keys?"
+}
+[/block]
+You want to hide the feedback button but open the Usersnap widget with a hot keys when you click on your keyboard? No problem. We set up an example for you on how to do that.
+[block:api-header]
+{
+  "title": "Does Usersnap only send the screenshot's image over to its server?"
+}
+[/block]
+Usersnap does send the whole HTML DOM to our renderers where we take a screenshot. Unless the native browser API or the browser extension is in use.
+﻿Related documentation can be found here.
+[block:api-header]
+{
+  "title": "Is Usersnap affected by the log4j vulnerability?"
+}
+[/block]
+No, our investigations showed that Usersnap is not susceptible to the log4j vulnerability. 
+The Usersnap backend is not built on Java or any other JVM language, so our main application does not (and cannot) use log4j.
+[block:api-header]
+{
+  "title": "Does Usersnap support Subresource Integrity (SRI)"
+}
+[/block]
+No. 
+We are a fast-moving company, that deploys improvements and new features on an almost daily basis.
+Furthermore, some of our assets are dynamically generated – based on the configuration you choose in our dashboard.
+It is possible to calculate the resource hashes on your own. 
+However, they will most likely change too often to make this a feasible approach.
+[block:api-header]
+{
+  "title": "How long is the data retained with Usersnap?"
+}
+[/block]
+1. Automatic deletion: 71 days after a paid subscription expires. It's also valid for the trial accounts.
+2. Manual deletion: After users delete their account or feedback items, the data will be deleted immediately and is retained in backups for up to 31 days. Note that Usersnap will NOT recover data deleted. 
+This information concerning the retention of data is only valid for the Platform system.
+[block:api-header]
+{
+  "title": "Can I hire your service to only process our data without keeping any of it?"
+}
+[/block]
+Yes, Usersnap does offer the process-only service. That means all the feedback will be deleted on our end right after it's sent to your assigned 3rd party tool, i.e., an integration.
+[block:callout]
+{
+  "type": "info",
+  "title": "Delete after delivered",
+  "body": "This is an enterprise feature. Please contact our customer success team to discuss this in detail."
+}
+[/block]
+[block:api-header]
+{
+  "title": "Does Usersnap support Electron?"
+}
+[/block]
+Unfortunately, Usersnap does not officially support Electron since it is not running in the browser.
+[block:api-header]
+{
+  "title": "Can I use Usersnap with webflow pages?"
+}
+[/block]
+Yes, you can use Usersnap with webflow pages. 
+You just need to embed the Usersnap code snippet, either in the  or before the closing  tag. 
+More related information about the Usersnap code snippet can be found here.
+And Webflow also has a page describing what you need to do to about embeding custom javascript: 
+Custom code in head and body tags
