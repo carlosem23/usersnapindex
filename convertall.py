@@ -1,3 +1,6 @@
+""" Since exported files from readme.io are written in markdown, we need to convert them into normal .txt files for the OpenAI language models in order to train them. This code basically grabs all the markdown source files
+in the current directory, converts them into plain text and then uses the BeautifulSoup to parse the HTML codes."""
+
 import markdown
 import os
 from bs4 import BeautifulSoup
